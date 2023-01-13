@@ -33,6 +33,9 @@ docker-compose.override.yml
 # Ignore cache.
 /web/sites/default/cache/
 
+# Ignore files.
+/web/sites/default/files/
+
 # Ignore node modules.
 /node_modules/
 **/*/node_modules/*
